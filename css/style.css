@@ -155,6 +155,23 @@ footer p a {
   color: #e8065e;
 }
 
+/* Devices under 1024px (small devices) */
+@media (max-width: 1024px) {
+      .pro_card_body h3 {
+        font-size: 19px;
+    }
+}
+
+/* Devices under 768px (small devices) */
+@media (max-width: 768px) {
+    .banner_text h1 {
+        font-size: 35px;
+      }
+      .pro_card_body h3 {
+        font-size: 20px;
+    }
+}
+
 /* Devices under 575px (small devices) */
 @media (max-width: 575px) {
   .navbar-brand img {
