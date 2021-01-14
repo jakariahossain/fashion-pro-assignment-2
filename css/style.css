@@ -24,6 +24,7 @@ h1 {
   color: #fff;
   font-weight: bolder;
   transition: background-color 1s ease-out;
+  text-transform: uppercase;
 }
 .btn_common:hover {
   border-color: #e8065e;
